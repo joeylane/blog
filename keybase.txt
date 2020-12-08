@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/joeylane
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.own.sh
+  * I am joeylane (https://keybase.io/joeylane) on keybase.
+  * I have a public key with fingerprint 76B3 0853 FEB9 EF12 1EF7  3086 056C ADBA 49D4 EBB0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e8bb6e3b36752a30ccb260fc9ff67c431ff022c5389e6290ba12317dd27443f10a",
+      "fingerprint": "76b30853feb9ef121ef73086056cadba49d4ebb0",
+      "host": "keybase.io",
+      "key_id": "056cadba49d4ebb0",
+      "kid": "0101e8bb6e3b36752a30ccb260fc9ff67c431ff022c5389e6290ba12317dd27443f10a",
+      "uid": "44117362536acc49420cb5f65fe72019",
+      "username": "joeylane"
+    },
+    "service": {
+      "hostname": "blog.own.sh",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535323014,
+  "expire_in": 157680000,
+  "prev": "85b68330436d72f3f7f539d9758db0caa2ab6b16c8efb1162821ab698750f30f",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUkloFEEUnXGNEddADJEoNiFEHZOqrq7q7hFxNwclUZSJoDh2dVdNWsfuyXRn
+GTSgiMYF0YCYhGgiKMSDktPEqJODBz0oakQCrjm4HNR4cTkZ0Wo1J6/WpahX773/
+/uefmTExlBe+2PI94eqDPeH772lox+GlJ/ZL1LUyUnS/tJf9vljSYp4f32tbUlQC
+EECmUUoYooioWDYQME0qE8BNnXOimgqCnANZNjHSdEZkHVADygiqliWrioI4BIYU
+kbjtJFg6lbYdX9iqhCKgYcQZ1RmHMmRcFQABmJiGRQ1FtxRGKRDCOtcLFCIcNTxW
+YbsCE4/4n3j/8v9z7obfdooCoYqIjBExTFPRFRmYFHOCOVNlAPWA6LG0Y+xjgr3H
+ZZmk4TCpJSIJtNE2WTDYoJO/DJp0ExVuk1Ph1QlpKu36rukmxUed76e8aCD0M6mA
+2cRo/K9HnNqOJcYoFI0s7dmuI0WhYJq+HZhCjDCSEYBKRGLNKTvN4nbAwCrRgDhB
+HdYoLDVMiYYQqFUQsVSZI65yjHRLV7FmUWAahmxQQiExNcYphETWZCgQXVMx4Ahw
+KWir3nGlKBY5jYTw9OyEY/gNadFz/vEwmhQK54VKChdN2pWcvGeN+qRkxOqIj6/e
+5AnB3oXyp80eR9YemfpzC+2a//bjgZohcu1GrrvsnaKvvFoZHxrL5TUuHuvLzSzr
+fNE5r/ppX9WbFYjVFtzNtD6bBXqPro/13Ot3cVPmztQNR77GimovLVj56UdRe3/2
+4Yez2xbejpVt6jyXrZ+iHRxqnfL457qX7VUrtjWM9h97crmif05Lvb/wSlO5v3pN
+rKaj7YYxGs0uLmkuHbiwoDuHywcOLYuc7iqcjl99Ls62+TWssnr70MDV4s1zs91z
+er/s3Fj0nR2OtS4Z+xBxTncddV8VX1/06PnW3a+/fCoYVNuSd2ZNuBnOnf2RfHCq
+PW9e6XJ1eNXwGe41h6Lnr602c4Md63pHbvV9O5nsjZu1vwA=
+=7yYL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joeylane
+
+==================================================================
+
